@@ -1,5 +1,12 @@
 [
   {
+    "runId": 37827241924,
+    "runNumber": 7,
+    "headSha": "0c3524fbf03aec8fc444098d38824e31bd842ac1",
+    "status": "failure",
+    "runURL": "https://github.com/tinyredphoenix/Cloudified/actions/runs/37827241924"
+  },
+  {
     "runId": 37785528077,
     "runNumber": 6,
     "headSha": "683668e4f381bb605da420c1315c3e6d8be65c20",
