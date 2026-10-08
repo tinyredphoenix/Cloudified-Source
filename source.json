@@ -19,6 +19,17 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "8",
+          "marketingVersion": "1.0 (8)",
+          "date": "2026-10-08T18:59:42+00:00",
+          "localizedDescription": "Unsigned CI build; device and cloud-service verification pending.",
+          "downloadURL": "https://github.com/tinyredphoenix/Cloudified-Source/releases/download/ci-run-37828111234-untested/Cloudified-unsigned.ipa",
+          "size": 17412620,
+          "sha256": "48b42a79b004c025b40ccd14de2460853807ac226d0a380f591a83c9db00c293",
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "6",
           "marketingVersion": "1.0 (6)",
           "date": "2026-10-08T13:38:51+00:00",
