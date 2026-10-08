@@ -89,7 +89,10 @@ def check_manifest(manifest: dict) -> None:
     run_id = manifest["runId"]
     if manifest.get("runURL") != f"https://github.com/{APP_REPO}/actions/runs/{run_id}":
         raise ValueError("Unexpected build run URL")
-    if manifest.get("status") not in ("success", "failure", "cancelled", "timed_out"):
+    if manifest.get("status") not in (
+        "success", "failure", "cancelled", "timed_out", "neutral",
+        "skipped", "stale", "action_required", "startup_failure",
+    ):
         raise ValueError("Unexpected build status")
     if manifest["status"] == "success":
         tag = f"ci-run-{run_id}-untested"
