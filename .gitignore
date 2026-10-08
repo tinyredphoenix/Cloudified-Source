@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.ipa
+*.xcresult
+*.key
+*.pem
+.DS_Store
