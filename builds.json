@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "runId": 37785528077,
+    "runNumber": 6,
+    "headSha": "683668e4f381bb605da420c1315c3e6d8be65c20",
+    "status": "success",
+    "runURL": "https://github.com/tinyredphoenix/Cloudified/actions/runs/37785528077",
+    "releaseURL": "https://github.com/tinyredphoenix/Cloudified-Source/releases/tag/ci-run-37785528077-untested"
+  }
+]

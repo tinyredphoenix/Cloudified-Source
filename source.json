@@ -1,1 +1,41 @@
-{"name":"Cloudified","identifier":"com.tinyredphoenix.Cloudified.source","subtitle":"Original photo and video backup","description":"Unsigned CI builds for personal SideStore installation.","iconURL":"https://raw.githubusercontent.com/tinyredphoenix/Cloudified-Source/main/icon.png","sourceURL":"https://raw.githubusercontent.com/tinyredphoenix/Cloudified-Source/main/source.json","tintColor":"#1681EF","apps":[],"news":[]}
+{
+  "name": "Cloudified",
+  "identifier": "com.tinyredphoenix.Cloudified.source",
+  "subtitle": "Original photo and video backup",
+  "description": "Unsigned CI builds for personal SideStore installation.",
+  "iconURL": "https://raw.githubusercontent.com/tinyredphoenix/Cloudified-Source/main/icon.png",
+  "sourceURL": "https://raw.githubusercontent.com/tinyredphoenix/Cloudified-Source/main/source.json",
+  "tintColor": "#1681EF",
+  "apps": [
+    {
+      "name": "Cloudified",
+      "bundleIdentifier": "com.tinyredphoenix.Cloudified",
+      "developerName": "tinyredphoenix",
+      "subtitle": "Original photo and video backup",
+      "localizedDescription": "Personal uploader for original photos and videos to Google Photos and Telegram. This unsigned build is awaiting real iPhone and cloud-service verification.",
+      "iconURL": "https://raw.githubusercontent.com/tinyredphoenix/Cloudified-Source/main/icon.png",
+      "tintColor": "#1681EF",
+      "category": "photo-video",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "6",
+          "marketingVersion": "1.0 (6)",
+          "date": "2026-10-08T13:38:51+00:00",
+          "localizedDescription": "Unsigned CI build; device and cloud-service verification pending.",
+          "downloadURL": "https://github.com/tinyredphoenix/Cloudified-Source/releases/download/ci-run-37785528077-untested/Cloudified-unsigned.ipa",
+          "size": 17265113,
+          "sha256": "a87a9403fd4e9962c06c2046e1a247cb4cdf8d9a3ae5c0a09f56dfaaa0a616f8",
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Cloudified requires photo library access to back up original quality photos and videos to Google Photos and Telegram."
+        }
+      }
+    }
+  ],
+  "news": []
+}
