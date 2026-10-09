@@ -1,0 +1,15 @@
+{
+  "buildVersion": "11",
+  "bundleIdentifier": "com.tinyredphoenix.Cloudified",
+  "headSha": "2dc17a0b95baf962685c7051b35793c3e95230cb",
+  "runId": 37897046071,
+  "runNumber": 11,
+  "runURL": "https://github.com/tinyredphoenix/Cloudified/actions/runs/37897046071",
+  "schema": 1,
+  "sha256": "64e741155880b7c93a5faabc8777b046ea29924359896e6b5867099c5a5acee6",
+  "size": 17507901,
+  "stageTag": "ci-run-37897046071-untested",
+  "stageURL": "https://github.com/tinyredphoenix/Cloudified/releases/download/ci-run-37897046071-untested/Cloudified-unsigned.ipa",
+  "status": "success",
+  "version": "2.1"
+}
