@@ -18,6 +18,17 @@
       "category": "photo-video",
       "versions": [
         {
+          "version": "2.2",
+          "buildVersion": "12",
+          "marketingVersion": "2.2 (12)",
+          "date": "2026-10-09T09:11:26+00:00",
+          "localizedDescription": "Unsigned CI build; device and cloud-service verification pending.",
+          "downloadURL": "https://github.com/tinyredphoenix/Cloudified-Source/releases/download/ci-run-37909280926-untested/Cloudified-unsigned.ipa",
+          "size": 17545214,
+          "sha256": "1a5ae98664fa90bf09d71c56a06c997c87b126b1c7bdfa04eeddb02b5f3ec56d",
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "2.1",
           "buildVersion": "11",
           "marketingVersion": "2.1 (11)",
